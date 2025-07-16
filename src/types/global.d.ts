@@ -7,6 +7,7 @@ export interface CtaLinks {
 export type MenuItem = {
   title: string;
   path: string;
+  isExternal?: boolean;
 };
 
 export type SocialLinks = {

@@ -19,7 +19,6 @@
     ],
     "paths": {
       "@/*": ["./src/*"],
-      "@component/*": ["./src/app/components/*"],
       "@public/*": ["./public/*"]
     }
   },
