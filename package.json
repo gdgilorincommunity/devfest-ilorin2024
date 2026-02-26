@@ -18,7 +18,7 @@
     "fabric": "^6.4.2",
     "framer-motion": "^11.3.2",
     "lenis": "^1.1.9",
-    "next": "14.2.5",
+    "next": "14.2.35",
     "react": "^18",
     "react-cropper": "^2.3.3",
     "react-dom": "^18",
