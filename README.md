@@ -23,15 +23,15 @@ These instructions will help you set up the project locally and get it running o
 
 ### Prerequisites
 
-- Node.js (version 14.6.0 or higher)
-- npm (version 6.14.0 or higher) or yarn (version 1.22.0 or higher)
+- Node.js (version 18 or higher)
+- pnpm (version 9 or higher)
 - Git
 
-To check if you have Node.js and npm installed, run these commands in your terminal:
+To check your versions:
 
 ```bash
 node --version
-npm --version
+pnpm --version
 ```
 
 ### Installation
@@ -43,19 +43,13 @@ git clone https://github.com/Ahmzyjazzy/devfest-ilorin2024
 cd devfest-ilorin2024
 
 3. Install dependencies
-npm install or yarn install
+pnpm install
 
 ### Running the Project Locally
 
 To run the project on your local machine:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
 The application should now be running on `http://localhost:3000` (or your specified port).
